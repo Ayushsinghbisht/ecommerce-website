@@ -1,0 +1,58 @@
+.nav{
+    margin:2.5%;
+    display: flex;
+    gap:10px;
+    border-color: red;
+    flex-basis: 10px;
+    justify-content: space-around;
+
+}
+.mid{
+   
+    display: flex;
+    gap:1px;
+    border-color: red;
+    flex-basis: 10px;
+    justify-content: space-around;
+}
+.right{
+    display: flex;
+    gap:20px;
+    border-color: red;
+    flex-basis: 10px;
+    justify-content: flex-end;
+}
+.search{
+    height: 20px;
+    display: flex;
+    
+    border-color: red;
+    flex-basis: 10px;
+    justify-content: space-around;
+}
+button{
+    background-color: black;
+   
+}
+.full{
+    display: flex;
+    flex-direction: column;
+}
+.images1{
+
+    display: flex;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    
+}
+.imagerow{
+    display: flex;
+    flex-direction: column;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
